@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+    font-family: "Lora";
+}
+
+body {
+    padding-top: 10px;
+}
+
+.cv-page {
+    width: 1024px;
+    margin: 0 auto;
+    box-shadow: 7px 6px 19px -6px rgba(0,0,0,0.75);
+}
+
+.personal-info {
+    display: flex;
+    background-color: #ddcbcb;
+}
+
+.personal-info__image {
+    width: 310px;
+}
+
+.personal-info__contact-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 714px;
+    color: #000000;
+    text-align: center;
+}
+
+.page-header {
+    padding: 10px 0;
+    font-weight: bold;
+    font-size: 3.2rem;
+    font-family: "Playfair Display SC";
+    color: white;
+    text-transform: uppercase;  
+}
+
+.header-text {
+    padding: 10px 0;
+    font-size: 1.6rem;
+}
+
+.cv-link {
+    color: #574949;
+    text-decoration: none; 
+    border-bottom: 1px dotted #412d22;
+}
+
+.contact-info__title {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.main-info {
+    display: flex;
+    color: #000000;
+}
+
+.left-section {
+    width: 310px;
+    background-color: #f2ecec;
+    padding-left: 15px;
+}
+
+.main-info__header {
+    padding: 10px 0;
+    font-size: 2.2rem;
+    font-weight: bold;
+    color: #a18b8b;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+}
+
+.main-info__text {
+    padding: 10px 0;
+    font-size: 1.6rem;
+}
+
+.skills-list {
+    padding: 10px 0 10px 15px;
+    list-style-type: square;
+}
+
+.skills-list__item {
+    font-size: 1.6rem;
+}
+
+.skills-list__technologies {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.right-section {
+    width: 714px;
+    padding-left: 15px;
+}
+
+.education-date {
+    font-weight: bold;
+}
+
+.education-title {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.course-title {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.code-expample {
+    padding-top: 10px;
+    width: 550px;
+    font-size: 1.6rem;
+    background-color: #f2ecec7e;
+}
+
+
+
+
+
+
