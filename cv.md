@@ -45,3 +45,26 @@ For when I'm a [billionaire](https://music.yandex.by/album/95355/track/846464)
             }
         }
 ```
+
+## Experience 
+
+[My achivments on Codecademy](https://www.codecademy.com/users/anastasiyaShautsova8920121254/achievements)
+
+## Education
+
+**2015 – 2019** – Belarusian State University of Informatics and Radioelectronics  
+Specialization: Teacher-programmer  
+**2013 – 2015** – Minsk State Higher Radio Technical College  
+Specialization: Technician-programmer  
+### Courses
+
+**01.10.2018 – 02.11.2018** – EPAM Systems  
+Course: Software Testing Introduction  
+**18.06.2018 – 09.07.2018** – Educational Center of HTP  
+Course: Mobile Software Testing  
+**18.01.2018 – 27.02.2018** – Private unitary enterprise Stormnet Technologies  
+Course: Software testing courses
+
+## English 
+
+B1
